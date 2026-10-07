@@ -14,7 +14,7 @@ C:\> git clone https://github.com/jpnotsodev/first-docker-app.git
 
 ```bash
 C:\> cd first-docker-app
-C:\> docker build -t first-docker-app:1.0 
+C:\> docker build -t first-docker-app:1.0 . 
 ```
 
 ## Run a container
